@@ -1,9 +1,11 @@
 version: "2"
 services:
   hugo:
-    image: klakegg/hugo
-    command: server
+    image: jakejarvis/hugo-extended:latest
+    command: server --buildDrafts --buildFuture --bind 0.0.0.0
     volumes:
       - .:/src
     ports:
       - 1313:1313
+    environment:
+      - HUGO_ENV=production
