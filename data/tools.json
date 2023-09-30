@@ -1,0 +1,90 @@
+[
+  {
+    "tools": [
+      {
+        "categary": "file sync",
+        "apps": [{ "name": "syncthing", "url": "https://syncthing.net/" }]
+      },
+      {
+        "categary": "Note Taking",
+        "apps": [{ "name": "obsidian", "url": "" }]
+      },
+      {
+        "categary": "Comics Reader",
+        "apps": [{ "name": "yacreader", "url": "" }]
+      },
+      {
+        "categary": "Text Expander",
+        "apps": [{ "name": "espanso", "url": "" }]
+      },
+      {
+        "categary": "Search",
+        "apps": [{ "name": "flowlauncher", "url": "" }]
+      },
+      {
+        "categary": "Password Manager",
+        "apps": [
+          { "name": "keepassXC", "url": "" },
+          { "name": "keepassDX", "url": "" }
+        ]
+      },
+      {
+        "categary": "BitTorrent Client",
+        "apps": [{ "name": "Transmission", "url": "" }]
+      },
+      {
+        "categary": "Android app store",
+        "apps": [
+          { "name": "F-Droid", "url": "" },
+          { "name": "Aurora droid", "url": "" }
+        ]
+      },
+      {
+        "categary": "YouTube Client",
+        "apps": [{ "name": "NewPipe", "url": "" }]
+      },
+      {
+        "categary": "Expense Tracker",
+        "apps": [{ "name": "MoneyWallet", "url": "" }]
+      },
+      {
+        "categary": "Youtube Downloader",
+        "apps": [
+          { "name": "yt-dlp", "url": "" },
+          { "name": "youtube-dl", "url": "" }
+        ]
+      },
+      {
+        "categary": "Network block (mobile)",
+        "apps": [{ "name": "NetGuard", "url": "" }]
+      },
+      {
+        "categary": "2FA",
+        "apps": [
+          { "name": "Aegis", "url": "" },
+          { "name": "AuthenticatorPro", "url": "" }
+        ]
+      },
+      {
+        "categary": "Borwser",
+        "apps": [
+          { "name": "bromite (mobile)", "url": "" },
+          { "name": "Brave", "url": "" },
+          { "name": "FireFox", "url": "" }
+        ]
+      },
+      {
+        "categary": "self-hosting Media",
+        "apps": [{ "name": "Jellyfin", "url": "" }]
+      },
+      {
+        "categary": "File Encryption",
+        "apps": [{ "name": "VeraCrypt", "url": "" }]
+      },
+      {
+        "categary": "calender & contact sync",
+        "apps": [{ "name": "DAVx5", "url": "" }]
+      }
+    ]
+  }
+]

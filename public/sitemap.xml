@@ -2,17 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2023-04-28T18:37:29+05:30</lastmod>
+    <loc>https://web.mmblack.online/</loc>
+    <lastmod>2023-05-06T12:59:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-04-28T18:37:29+05:30</lastmod>
+    <loc>https://web.mmblack.online/project/led-controller-usb/</loc>
+    <lastmod>2023-05-06T12:59:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-04-28T18:37:29+05:30</lastmod>
+    <loc>https://web.mmblack.online/project/</loc>
+    <lastmod>2023-05-06T12:59:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://web.mmblack.online/posts/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://web.mmblack.online/posts/my-first-post/</loc>
+    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://web.mmblack.online/about/</loc>
+  </url><url>
+    <loc>https://web.mmblack.online/categories/</loc>
+  </url><url>
+    <loc>https://web.mmblack.online/tags/</loc>
   </url>
 </urlset>

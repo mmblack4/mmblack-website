@@ -1,0 +1,10 @@
+{{ $url := "/data/tools.json" }} {{ range (getJSON $url) }} {{ $rally := . }} {{
+range $tool := $rally.tools }}
+<div>
+  {{ $tool.categary }} - {{ range $recip := $tool.apps }}<a
+    href="{{ $recip.url }}"
+    >{{ $recip.name }}</a
+  >
+  {{ end }}
+</div>
+{{ end }} {{ end }}

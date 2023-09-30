@@ -1,0 +1,8 @@
+<meta charset="utf-8" />
+{{ if isset .Params "title" }}
+<title>{{ .Params.Title }}</title>
+{{ else }}
+<title>{{ .Site.Title }}</title>
+{{end}} {{ $style := resources.Get "sass/main.scss" | resources.ToCSS |
+resources.Minify }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />

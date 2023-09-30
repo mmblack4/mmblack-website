@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://web.mmblack.online'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'lugo'
+title = 'mmblack'
+[params]
+name = "muthu mani"
